@@ -1,0 +1,7 @@
+There are a total of 4 python scripts. If you want to run the scripts:
+	First run part1.py.This cleans the data and adds necessary columns 
+	After that, part2_1.py and part2_2.py and visuals.py can be run in any order
+	part2_1.py contains time series forecasting using ARIMA
+	part2_1.py contains time series forecasting using VAR
+	visuals.py contains code for generating plots 
+	  
